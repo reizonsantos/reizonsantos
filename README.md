@@ -57,9 +57,7 @@
 
 # *Connect with me:*
 
-<p align="left">
-📫  Want to talk to me? Send me a message on one of the links below!
-</p>
+#### 📫 *Want to talk to me? Send me a message on one of the links below!*
 
 <p align="left">
 <a href="mailto:reizonsantos96@gmail.com" alt="Gmail">
