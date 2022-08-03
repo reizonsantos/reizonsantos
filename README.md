@@ -1,13 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-# Hi there, I'm Reizon Santos <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+# *Hi there, I'm Reizon Santos* <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-<p align="left" font-size="16px">
-I am a developer and student of Systems Analysis and Development
-</p>
+#### *I am a developer and student of Systems Analysis and Development*
 
 
-### My skills as a developer:
+### *My skills as a developer:*
 
 #### Languages 
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -36,7 +34,7 @@ I am a developer and student of Systems Analysis and Development
 <br />
 
 
-### And have knowledge in:
+### *And have knowledge in:*
 #### Languages 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -57,7 +55,7 @@ I am a developer and student of Systems Analysis and Development
 
 
 
-# Connect with me:
+# *Connect with me:*
 
 <p align="left">
 📫  Want to talk to me? Send me a message on one of the links below!
